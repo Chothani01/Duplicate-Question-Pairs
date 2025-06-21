@@ -1,0 +1,6 @@
+streamlit
+xgboost
+sklearn
+distance
+bs4
+fuzzywuzzy
