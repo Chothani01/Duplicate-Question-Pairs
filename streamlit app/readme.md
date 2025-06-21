@@ -62,4 +62,4 @@ Machine learning models used may include:
 - **XGBoost** – Gradient boosting framework for structured data
 - **Random Forest** or other classifiers
 
-The trained model is serialized using `joblib`:
+The trained model is serialized using `joblib`
